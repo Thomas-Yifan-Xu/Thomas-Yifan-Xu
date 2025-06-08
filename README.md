@@ -2,6 +2,10 @@
 
 I'm Thomas, a student in Applied Math & Computational Science at Duke University/Duke Kunshan University
 
+- 🌱 I’m currently learning Deep Neural Networks.
+- 📫 How to reach me: thomas.yifan.xu@outlook.com
+- 😄 Pronouns: he/him
+
 <!--
 **Thomas-Yifan-Xu/Thomas-Yifan-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
