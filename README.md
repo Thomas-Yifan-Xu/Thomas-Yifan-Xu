@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Thomas, a student in Applied Math & Computational Science at Duke University/Duke Kunshan University
+
 <!--
 **Thomas-Yifan-Xu/Thomas-Yifan-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
