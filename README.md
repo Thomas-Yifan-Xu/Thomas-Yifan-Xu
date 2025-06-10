@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Thomas, a student in Applied Math & Computational Science at Duke University/Duke Kunshan University
+I'm Thomas, a student majoring in Applied Math & Computational Science at Duke University/Duke Kunshan University
 
 - 🌱 I’m currently learning Deep Neural Networks.
 - 📫 How to reach me: thomas.yifan.xu@outlook.com
